@@ -1,1 +1,1 @@
-# queue
+# Simple Queuing system implementation
